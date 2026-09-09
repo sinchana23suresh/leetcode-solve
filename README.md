@@ -1,10 +1,11 @@
 # leetcode-solve
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 2 (Easy: 2, Medium: 0, Hard: 0)
+Solved: 3 (Easy: 3, Medium: 0, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-08 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-08 |
+| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-09 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-09 |
+| 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-09-09 |
 <!-- LEETHUB:TABLE:END -->
