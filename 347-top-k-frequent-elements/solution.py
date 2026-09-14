@@ -1,4 +1,4 @@
-// 8 ms | 15.2 MB
+// 13 ms | 15.1 MB
 class Solution(object):
     def topKFrequent(self, nums, k):
         c={}
@@ -18,4 +18,5 @@ class Solution(object):
                     ans.append(num)
                     if len(ans)==k:
                         return ans
+                        "bucket sort is efficient method"
         
