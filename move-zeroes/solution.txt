@@ -1,0 +1,9 @@
+                j=j+1
+        for i in range(j,len(nums)):
+            nums[i]=0
+            if nums[i]!=0:
+                nums[j]=nums[i]
+        for i in range(len(nums)):
+        j=0
+    def moveZeroes(self, nums):
+class Solution(object):
