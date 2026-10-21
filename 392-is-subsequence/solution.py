@@ -4,7 +4,6 @@ class Solution(object):
         l=len(s)
         index=0
         while index<l:
-            
                 i=t.find(s[index])
                 if i==-1:
                     return False
