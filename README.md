@@ -9,6 +9,7 @@ Solved: 16 (Easy: 9, Medium: 7, Hard: 0)
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-21 |
 | 29 | [Divide Two Integers](29-divide-two-integers/) | Medium | 2026-10-21 |
 | 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-10-21 |
+| 392 | [Is Subsequence](392-is-subsequence/) | Easy | 2026-10-21 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-10-21 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring/) | Medium | 2026-10-21 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-21 |
@@ -20,5 +21,4 @@ Solved: 16 (Easy: 9, Medium: 7, Hard: 0)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-10-21 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-21 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-21 |
-| 392 | [Is Subsequence](392-is-subsequence/) | Easy | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
